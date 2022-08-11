@@ -1,0 +1,6 @@
+bearer_token = "<Enter your twitter api bearer token here>"
+kafka_path = "kafka:9092"
+topic = "sentiment"
+search_term1 = "covid"
+search_term2 = "covid19"
+search_term3 = "coronavirus"
